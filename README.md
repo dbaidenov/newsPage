@@ -1,3 +1,3 @@
 # newsPage
 
-Обычная страница новостного портала (React Native (Expo), styled-components)
+Обычная страница новостного портала на React Native (Expo) и styled-components
